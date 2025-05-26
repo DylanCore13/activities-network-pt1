@@ -1,6 +1,11 @@
 # activities-network-pt1
 
 
+
+![image](https://github.com/user-attachments/assets/9b6755a0-3801-4072-9f2c-9d276accea00)
+
+
+
 - Create a Resource Group
 - Create a Windows 10 Virtual Machine (VM)
 - While creating the VM, select the previously created Resource Group
