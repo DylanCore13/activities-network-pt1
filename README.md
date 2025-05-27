@@ -7,7 +7,7 @@
 
 
 
-- Create a Resource Group
+- First we'll create a Resource Group named 
 
 ![image](https://github.com/user-attachments/assets/937a8eea-4844-49b2-bdba-2f43c0e8f700)
 
