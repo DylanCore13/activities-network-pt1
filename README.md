@@ -13,7 +13,13 @@
 <b/>
 
 
-- First we'll create a Resource Group named 
+
+
+
+
+
+
+First we'll create a Resource Group named RG-network-activities
 
 ![image](https://github.com/user-attachments/assets/937a8eea-4844-49b2-bdba-2f43c0e8f700)
 
