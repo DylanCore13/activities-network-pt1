@@ -12,7 +12,7 @@
 
 
 
-<h2>Prerequisites<h2/>
+<h2>Prerequisites</h2>
 
 
 - All you need is a Azure Tenet and a subscription
