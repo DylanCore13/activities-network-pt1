@@ -45,7 +45,7 @@ First we'll create a Resource Group named RG-network-activities, region should b
 
 
 - Create a Windows 10 Virtual Machine (VM)
-   - While creating the VM, also select East US 2, for image Windows 10 22H, and a size that has 2vcpus attached to it.
+   - While creating the VM, select image Windows 10 22H, and a size that has 2vcpus attached to it.
      You're than going to click on networking section to change the name of the virtual network. Skip Disks, won't be doing anything there.
  
 ![image](https://github.com/user-attachments/assets/5fb4b6e5-f7d0-4d37-9ba2-76eb3e956d83)
