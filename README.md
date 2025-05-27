@@ -10,6 +10,15 @@
 - Azure virtual machines (windows and linux)
   - Azure Network Security Groups (Firewall Resource)
 
+
+
+<h2>Prerequisites<h2/>
+
+- All you need is a Azure Tenet and a subscription
+
+
+
+
 <b/>
 
 
