@@ -9,6 +9,7 @@
 
 - Create a Resource Group
 
+![image](https://github.com/user-attachments/assets/937a8eea-4844-49b2-bdba-2f43c0e8f700)
 
 
 
