@@ -58,7 +58,7 @@ First we'll create a Resource Group named RG-network-activities, region should b
 
 
 
-   - While creating the VM, allow it to create a new Virtual Network (Vnet) and it something entirely different from the virtual machine, than just click create virtual machine. 
+   - While creating the VM, allow it to create a new Virtual Network (Vnet) and name it something entirely different from the virtual machine, than just click create. 
 
 ![image](https://github.com/user-attachments/assets/fbc289ff-c81b-4d49-8bb5-e79e84f5a4ec)
 
