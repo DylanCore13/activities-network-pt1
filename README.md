@@ -3,6 +3,11 @@
 
 ![image](https://github.com/user-attachments/assets/8e15530e-d851-4467-8421-61c172f9daf0)    
 
+<h2>Resources Used</h2>
+- Resource Groups
+- Azure virtual networks and subnets
+- Azure virtual machines (windows and linux)
+  - Azure Network Security Groups (Firewall Resource)
 
 
 
