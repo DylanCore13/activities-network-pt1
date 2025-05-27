@@ -1,7 +1,7 @@
 # activities-network-pt1
 
 
-![image](https://github.com/user-attachments/assets/8e15530e-d851-4467-8421-61c172f9daf0)    ![image](https://github.com/user-attachments/assets/d1312f37-beb9-4a8d-ae16-3d7fe269a48d)
+![image](https://github.com/user-attachments/assets/8e15530e-d851-4467-8421-61c172f9daf0)    
 
 
 
