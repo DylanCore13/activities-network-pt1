@@ -45,7 +45,8 @@ First we'll create a Resource Group named RG-network-activities, region should b
 
 
 - Create a Windows 10 Virtual Machine (VM)
-   - While creating the VM, select the previously created Resource Group
+   - While creating the VM, select the previously created Resource Group, also select East US 2, for image Windows 10 22H, and a size that has 2vcpus attached to it.
+     You're than going to click on networking section to change the name of the virtual network. Skip Disks, won't be doing anything there.
  
 ![image](https://github.com/user-attachments/assets/5fb4b6e5-f7d0-4d37-9ba2-76eb3e956d83)
 
@@ -57,8 +58,9 @@ First we'll create a Resource Group named RG-network-activities, region should b
 
 
 
-   - While creating the VM, allow it to create a new Virtual Network (Vnet) and 
+   - While creating the VM, allow it to create a new Virtual Network (Vnet) and it something entirely different from the virtual machine, than just click create virtual machine. 
 
+![image](https://github.com/user-attachments/assets/fbc289ff-c81b-4d49-8bb5-e79e84f5a4ec)
 
    
 - Create a Linux (Ubuntu) VM
