@@ -64,15 +64,18 @@ First we'll create a Resource Group named RG-network-activities, region should b
 
    
 - Create a Linux (Ubuntu) VM
-   - While creating the VM, select the previously created Resource Group and Virtual Network—the Virtual Network MUST BE THE SAME.
+   - While creating the VM, select the previously created Resource Group and Virtual Network—the Virtual Network MUST BE THE SAME. Name the virutal machine linux-vm.
+     The image will be Ubantu 22.04LTS - x64 gen2, Size will be 2vcpus.
+ 
+     ![image](https://github.com/user-attachments/assets/a1c6e902-c809-464c-95ff-5ff45a12de5c)
 
-     
-   - Authentication type: Username/Password
+    Password can be the same as the windows-vm 
  
 
   
-- Ensure both VMs are in the same Virtual Network / Subnet
+- Next skip Disks and go to network section and ensure both VMs are in the same Virtual Network / Subnet
 
+![image](https://github.com/user-attachments/assets/bb06b155-5e9b-476f-9bae-b993ed0c990c)
 
 
 
