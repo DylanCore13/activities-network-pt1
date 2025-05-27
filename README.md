@@ -47,6 +47,13 @@ First we'll create a Resource Group named RG-network-activities, region should b
 - Create a Windows 10 Virtual Machine (VM)
    - While creating the VM, select the previously created Resource Group
  
+![image](https://github.com/user-attachments/assets/5fb4b6e5-f7d0-4d37-9ba2-76eb3e956d83)
+
+
+![image](https://github.com/user-attachments/assets/d1995009-5f01-4814-a1d1-430a0a943c39)
+
+
+![image](https://github.com/user-attachments/assets/80f91df3-05a5-48d5-8b60-df3c172875c8)
 
 
 
